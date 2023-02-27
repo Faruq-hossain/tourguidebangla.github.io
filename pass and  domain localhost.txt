@@ -1,0 +1,10 @@
+db name
+tourguid_hotel
+
+password
+
+tourguidebd
+
+user
+
+tourguid_tourguid

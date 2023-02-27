@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+header2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.6s;
+
+}

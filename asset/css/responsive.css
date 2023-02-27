@@ -1,0 +1,128 @@
+@media only screen and (max-width: 1400px) {
+    .header-vector-image img {
+        width: 180.46px;
+        margin-top: -14px;
+        float: right;
+        margin-right: 0px;
+    }
+
+    .row.search .col-lg-3 label {
+        font-size: 12px;
+    }
+
+    mt-4.mb-5.fw-lighter br {
+        display: none;
+    }
+
+    .desired-image img {
+        padding-top: 38px;
+        padding-left: 107px;
+        height: 52.46px;
+        width: 196px;
+    }
+
+    .desired-vector h4 {
+        font-size: 1.25rem;
+    }
+
+    .looking-vector-image img {
+        padding-top: 48px;
+        padding-left: 69px;
+        width: 173px;
+        height: 61px;
+    }
+
+    .vercotor-image-trip h3 {
+        font-size: 1.50rem;
+    }
+
+    .looking-vector h3 {
+        font-size: 1.50rem;
+    }
+
+    .vector-image img {
+        padding-top: 48px;
+        padding-left: 69px;
+        width: 173px;
+        height: 61px;
+    }
+
+    .guide-heading h3 {
+        font-size: 30px;
+    }
+
+    .guide-list ul li {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .header-vector-image img {
+        width: 180.46px;
+        margin-top: -14px;
+        float: right;
+        margin-right: 0px;
+    }
+
+    .row.search .col-lg-3 label {
+        font-size: 12px;
+    }
+
+    mt-4.mb-5.fw-lighter br {
+        display: none;
+    }
+
+    .looking-vector-image img {
+        padding-top: 48px;
+        padding-left: 69px;
+        width: 173px;
+        height: 61px;
+    }
+
+    .vercotor-image-trip h3 {
+        font-size: 1.50rem;
+    }
+
+    .looking-vector h3 {
+        font-size: 1.50rem;
+    }
+
+    .vector-image img {
+        padding-top: 48px;
+        padding-left: 69px;
+        width: 173px;
+        height: 61px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .desired-image img {
+        padding-top: 38px;
+        padding-left: 107px;
+        height: 52.46px;
+        width: 196px;
+    }
+
+    .desired-vector h4 {
+        font-size: 1.25rem;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .header-vector-image img {
+        width: 180.46px;
+        margin-top: -14px;
+        float: right;
+        margin-right: 0px;
+    }
+
+    .row.search .col-lg-3 label {
+        font-size: 12px;
+    }
+
+    mt-4.mb-5.fw-lighter br {
+        display: none;
+    }
+
+}
